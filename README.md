@@ -1,5 +1,4 @@
-# Statistical-Learning
-Statistical Learning project for DataScience master course @UniTn 
+# Statistical-Learning - Young People Survey
 
 ### Abstract
 The purpose of this project is to discover if we can predict spending habits, and in case other preferences, based on possible types of personalities.
